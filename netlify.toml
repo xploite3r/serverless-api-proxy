@@ -3,8 +3,8 @@
   command = "npm run build"
 
 [[redirects]]
-  from = "/discord/*"
-  to = "https://discord.com/api/:splat"
+  from = "/bare/*"
+  to = "https://bare.benrogo.com/:splat"
   status = 200
 
 [[redirects]]
